@@ -1,4 +1,4 @@
-<div align="center">
+a<div align="center">
   <h1>Hi there, I'm Aman Dubey 👋</h1>
   <h3>Full-Stack Developer | Frontend Specialist | MERN Stack Expert</h3>
   <p>Building high-performance, scalable, and secure web applications from idea to deployment.</p>
@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Developer** with 2 years of professional experienc
 - 📫 How to reach me: **amandubey8833@gmail.com**
 
 <p align="center">
-  <a href="https://amandubey.netlify.app/" target="_blank">
+  <a href="https://amandubey.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/profile-amandubey/" target="_blank">
