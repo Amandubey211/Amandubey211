@@ -1,4 +1,4 @@
-a<div align="center">
+<div align="center">
   <h1>Hi there, I'm Aman Dubey 👋</h1>
   <h3>Full-Stack Developer | Frontend Specialist | MERN Stack Expert</h3>
   <p>Building high-performance, scalable, and secure web applications from idea to deployment.</p>
