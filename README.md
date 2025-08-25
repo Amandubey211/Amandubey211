@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Replaced GIF with an impactful, static image (you need to create this image) -->
-  <img src="https://amandubey.vercel.app/images/hero-readme-banner.png" alt="Aman Dubey - Full-Stack Innovator" width="100%">
+
+  <img src="https://amandubey.vercel.app/images/hero-readme-banner.png](https://amandubey.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAmanimage.bc0eb3d8.jpeg&w=1200&q=75)" alt="Aman Dubey - Full-Stack Innovator" width="100%">
   <h1>Aman Dubey 👋</h1>
   <h3>Product-minded Full-Stack Lead | AI Integrator | Web Performance Maestro</h3>
   <p>Architecting and building high-performance, scalable, and secure digital products from vision to deployment.<br>Transforming complex ideas into intuitive, impactful experiences with code and AI.</p>
