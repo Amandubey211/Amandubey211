@@ -205,24 +205,6 @@ I'm a passionate **Frontend-focused Full-Stack Lead** with **2.0+ years of verif
 
 ---
 
-### 📊 My GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandubey211&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amandubey211&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandubey211&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amandubey211&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=Amandubey211&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
-
----
-
 <div align="center">
   <h3>Ready to Build the Future Together?</h3>
   <p>I'm actively seeking challenging Full-Stack and Frontend Lead roles, or exciting freelance projects. Let's connect!</p>
@@ -231,6 +213,5 @@ I'm a passionate **Frontend-focused Full-Stack Lead** with **2.0+ years of verif
       <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aman Dubey"/>
     </a>
   </p>
-  <br>
-  [![](https://visitcount.itsvg.in/api?id=Amandubey211&icon=5&color=0)](https://visitcount.itsvg.in)
+
 </div>
