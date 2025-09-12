@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://amandubey.vercel.app/images/hero-readme-banner.png">
+  <img src="https://amandubey.vercel.app/src/assets/about/Amanimage.jpeg">
   <h1>Aman Dubey 👋</h1>
   <h3>Product-minded Full-Stack Lead | AI Integrator | Web Performance Maestro</h3>
   <p>Architecting and building high-performance, scalable, and secure digital products from vision to deployment.<br>Transforming complex ideas into intuitive, impactful experiences with code and AI.</p>
