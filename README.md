@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/109097090?v=4">
+<!--   <img src="https://avatars.githubusercontent.com/u/109097090?v=4"> -->
   <h1>Aman Dubey 👋</h1>
   <h3>Product-minded Full-Stack Lead | AI Integrator | Web Performance Maestro</h3>
   <p>Architecting and building high-performance, scalable, and secure digital products from vision to deployment.<br>Transforming complex ideas into intuitive, impactful experiences with code and AI.</p>
